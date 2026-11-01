@@ -26,4 +26,13 @@ int main(){
 
 /* Here, if we don't use break statement,
    then all the case below the matched case
-   will start executing. */
+   will start executing. 
+   
+   -> We can use switch case statements even by writing
+      case in any order of our choice (not necessarily 
+      ascending).
+      
+   -> char value is allowed as they are easily evaluated to an integer.
+   
+   -> A switch can occure within another but it's rarely done.
+*/
